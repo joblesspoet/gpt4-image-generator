@@ -4,8 +4,6 @@
 A simple rest based application which allow user to generate the imaged based on prmpt and size of the image.
 
 
-
-
 ## Run Locally
 
 Clone the project
